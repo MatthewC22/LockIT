@@ -2,7 +2,7 @@
 
 #### Password Manager for Desktop and Mobile
 
-Our groups project is to build a Password Manager that runs as a native Python application on either desktop or on your mobile device (cross-platform). 
+Our groups project is to build a Password Manager that runs as a native Python application on either desktop and on your mobile device (cross-platform). 
 This app will use the AES 256 encryption standard to encrypt data.
 
 # Ideas for tools to be used for project:
