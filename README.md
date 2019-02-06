@@ -11,14 +11,10 @@ You can install the latest version of Python 3 [here](https://www.python.org/dow
 
 ### Desktop version
 
-[PyQt](https://build-system.fman.io/pyqt5-tutorial) - A Qt GUI Framework
+[PyQt](https://build-system.fman.io/pyqt5-tutorial) - A Python GUI Framework
 
-[fbs](https://build-system.fman.io/) - Easy Tool for Packaging, Code signing, Installer and Automatic updates
+[TKInter](https://build-system.fman.io/pyqt5-tutorial) - Pythons standard GUI
 
-### Mobile version
+[PyInstaller](https://www.pyinstaller.org/) - Program to make Python code into an application
 
-[Tutorial](https://briefcase.readthedocs.io/en/latest/tutorial/tutorial-0.html) - Tutorial for creating helloworld app for cross-platform mobile
 
-[Toga](https://pybee.org/project/projects/libraries/toga/)  - Native System Widgets Toolkit.
-
-[Briefcase](https://github.com/pybee/briefcase) - Creates standalone native application from python source
