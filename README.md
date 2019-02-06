@@ -1,4 +1,4 @@
-# LockIt Group Project
+# LockIt Password Manager
 
 #### Password Manager for Desktop and Mobile
 
