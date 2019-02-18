@@ -6,3 +6,8 @@ To get pyinstaller...go to your comamnd prompt or linux terminal and enter the f
 ```  
 pip install pyinstaller
 ```
+
+After it has finished installing.. type the following pyinstaller command to test it was installed correct and to get all the different usages of the command.
+```
+pyinstaller -h
+```
