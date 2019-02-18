@@ -10,7 +10,7 @@ After it has finished installing.. type the following pyinstaller command to tes
 ```
 pyinstaller -h
 ```
-Make a hello.cpp file and enter
+Make a hello.py file and enter
 ```python
 print("Hello")
 input("Please Input ENTER")
