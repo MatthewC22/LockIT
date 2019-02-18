@@ -1,4 +1,4 @@
-# This is just a guide of hello.py to a .exe in Python 3
+# How TO hello.py to a .exe in Python 3
 
 ### This guide assumes you have already installed Python 3 from https://python.org
 
