@@ -1,4 +1,4 @@
-### This is just a guide of hello.py to a .exe in Python 
+### This is just a guide of hello.py to a .exe in Python 3
 
 .exe was made using pyinstaller - https://pyinstaller.readthedocs.io/en/stable/
 
