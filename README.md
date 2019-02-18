@@ -23,6 +23,6 @@ in the command prompt or terminal in the directory where the file is located.. e
 ```
 pyinstaller -f hello.py
 ```
-After this you will have a executable file for a  "Hello" program.
+After this you will have a executable file for a  "hello" program.
 
 Run it to make sure it worked
