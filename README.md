@@ -1,6 +1,6 @@
-### This is just a guide of hello.py to a .exe in Python 3
+# This is just a guide of hello.py to a .exe in Python 3
 
-###This guide assumes you have already installed Python 3 from https://python.org
+### This guide assumes you have already installed Python 3 from https://python.org
 
 .exe was made using pyinstaller - https://pyinstaller.readthedocs.io/en/stable/
 
