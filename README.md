@@ -1,5 +1,5 @@
 ## LockIT Description
----------------------
+
 
 LockIT safely encrypts and stores your data in a database.
 
