@@ -1,3 +1,3 @@
-# LockIt Database / SETTINGS , LOCKITUSER tables
+# LockIt Database
 
 
