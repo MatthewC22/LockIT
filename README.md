@@ -6,4 +6,4 @@ Our groups project is to build a Password Manager that runs as a Python applicat
 
 You can install the latest version of Python 3 [here](https://www.python.org/downloads/) 
 
-Exectuable version of our project can be found [here]http://myvmlab.senecacollege.ca:6483/
+Exectuable version of our project can be found [here](http://myvmlab.senecacollege.ca:6483/)
